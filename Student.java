@@ -1,7 +1,7 @@
 public class Student {
     public static void main(String[] args) {
         int rollno = 1596;
-        String sname = "KRISHNAa";
+        String sname = "SAI";
         String course = "PYTHON"; 
         System.out.println("LEARN HERE AND LEAD ANYWHERE!!!");
         System.out.println("My Name is: " + sname);
